@@ -2901,7 +2901,7 @@ p {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    gap: 30px;
+    gap: 25px;
     padding: 40px 40px 0;
   }
   .hero_secound .container .line .left .video_container {
